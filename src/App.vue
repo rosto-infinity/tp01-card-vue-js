@@ -1,11 +1,10 @@
+<template>
+  <div class=" min-h-screen justify-center items-center bg-slate-300"> 
+       <div class="max-w-[1200px] w-full py-24 mx-auto mt-32 flex flex-col items-center shadow-lg rounded-xl bg-white">
 
-
- <template>
-  <div class=" grid gap-4 justify-center items-center"> 
-          <h1 class="text-7xl text-red-600 font-bold underline">
-        Count 
-        </h1>
-        <button @click="increment" class="mt-5 px-7 py-4 bg-green-500 rounded-md text-3xl text-white" > increment = {{ count }}</button>
+       <h1 class="s">Select your role</h1>
+       
+       </div>
   </div>
 </template>
 
